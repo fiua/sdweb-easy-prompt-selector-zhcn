@@ -5,4 +5,5 @@
 > 国内代理使用
 >
 > 
-```https://ghproxy.com/https://gitclone.com/github.com/blue-pen5805/sdweb-easy-prompt-selector```
+
+https://ghproxy.com/https://github.com/fiua/sdweb-easy-prompt-selector-zhcn
